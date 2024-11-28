@@ -4,7 +4,7 @@ wifi:
   fast_connect: true
   power_save_mode: light
   ap:
-    ssid: "${name}"
+    ssid: "ecodan"
     password: "configesp"
     ap_timeout: 15s
 
